@@ -1,0 +1,3 @@
+**Welcome to Evie**
+
+Evie is a feature-rich all-in-one bot for Discord that adds Moderation features such as cases, temp-bans, soft-bans, and more, alongside handy utilities for designing your server. Look-up information and statistics with ease inside of Discord, such as user information and game statistics like VALORANT.
